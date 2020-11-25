@@ -14,3 +14,6 @@ TO RUN:<br/>
 3)TOGGLE THE ANN SWITCH FOR "On" POSITION<br/> 
 IMPORTANT2: DO NOT PUSH THE UPDATE BUTTON;<br/>
 IMPORTANT2: If the simulation takes too much time, simply remove the pause(1/24) at the end of the app.ANNSWITCH. As the computation completes, you will see the same final picture.
+
+<br/>
+>>hw3 is mobile robotics toolbox powered exercise
