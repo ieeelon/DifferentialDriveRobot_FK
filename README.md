@@ -16,4 +16,5 @@ IMPORTANT2: DO NOT PUSH THE UPDATE BUTTON;<br/>
 IMPORTANT2: If the simulation takes too much time, simply remove the pause(1/24) at the end of the app.ANNSWITCH. As the computation completes, you will see the same final picture.
 
 <br/>
->>hw3 is mobile robotics toolbox powered exercise
+>>hw3 is mobile robotics toolbox powered exercise <br/>
+Video demonstration: https://www.loom.com/share/c9a14e72343b442097511c673c1d1ad2
